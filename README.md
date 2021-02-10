@@ -1,11 +1,13 @@
 ### Hello everyone :wave:
  
-[![Github](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino)](https://github.com/nayaraquino)
+[![Github](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-595D60?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayaraquino//)](https://www.linkedin.com/in/nayaraquino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-595D60?style=flat-square&logo=Linkedin&logoColor=white&link=nayaraquino7@gmail.com/)](nayaraquino7@gmail.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-595D60?style=flat-square&logo=Gmail&logoColor=white&link=nayaraquino7@gmail.com/)](nayaraquino7@gmail.com/)
 ---
 #### About me
-I'm a Quality Assurance and I study [![Swift](https://img.shields.io/badge/Swift-595D60?style=flat-square&logo=swift&logoColor=white&link=https://www.linkedin.com/in/nayaraquino//)] in my spare time.
+I'm a Quality Assurance and I study
+![Swift](https://img.shields.io/badge/Swift-595D60?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/nayaraquino/)
+in my spare time.
 
 
 
