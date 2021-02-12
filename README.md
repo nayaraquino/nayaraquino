@@ -9,8 +9,8 @@ I'm a Quality Assurance and I study Swift in my spare time.
 
 
 
-:mortar_board: - Studying Information Systems at the [Estácio de Sá](https://estacio.br)
+:mortar_board:  Studying Information Systems at the [Estácio de Sá](https://estacio.br)
 
-:woman_technologist: - Currently working at [Stant](https://github.com/stantmob)
+:woman_technologist:  Currently working at [Stant](https://github.com/stantmob)
 <!--
 **nayaraquino/nayaraquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
