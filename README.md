@@ -9,6 +9,7 @@ Sou Quality Assurance Engineer e foco atualmente meus estudos em Selenium e Cypr
 Sou entusiasta em desenvolvimento iOS e estudo Swift no meu tempo livre ;)
 
 :mortar_board:  Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
+
 :woman_technologist:  Atualmente trabalhando na [Stant](https://github.com/stantmob)
 
 <!--
