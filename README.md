@@ -5,12 +5,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-595D60?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayaraquino7@gmail.com/)](mailto:nayaraquino7@gmail.com/)
 ---
 #### About me
-I'm a Quality Assurance and I study Swift in my spare time.
+Sou Quality Assurance e foco atualmente meus estudos em Selenium e Cypress.
+Sou entusiasta em desenvolvimento iOS e estudo Swift no meu tempo livre ;)
 
+:mortar_board:  Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
+:woman_technologist:  Atualmente trabalhando na [Stant](https://github.com/stantmob)
 
-
-:mortar_board:  Studying Information Systems at the [Estácio de Sá](https://estacio.br)
-
-:woman_technologist:  Currently working at [Stant](https://github.com/stantmob)
 <!--
 **nayaraquino/nayaraquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
