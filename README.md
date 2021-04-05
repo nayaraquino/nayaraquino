@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-595D60?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayaraquino7@gmail.com/)](mailto:nayaraquino7@gmail.com/)
 ---
 #### About me
-Sou Quality Assurance e foco atualmente meus estudos em Selenium e Cypress.
+Sou Quality Assurance Engineer e foco atualmente meus estudos em Selenium e Cypress.
 Sou entusiasta em desenvolvimento iOS e estudo Swift no meu tempo livre ;)
 
 :mortar_board:  Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
