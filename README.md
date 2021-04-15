@@ -11,7 +11,7 @@
 
 Sou Quality Assurance Engineer e foco atualmente meus estudos em Selenium e Cypress para testes automatizados.
 
-Tenho experiência com testes de integração, e2e, funcionais, exploratórios (WEB e Mobile), de API e criação de casos de teste com BDD.
+Tenho experiência com testes de integração, e2e, funcionais, exploratórios (WEB e Mobile), de API (com Postman) e criação de casos de teste com BDD.
 Sou entusiasta em desenvolvimento iOS e estudo Swift no meu tempo livre ;)
 
 :mortar_board:  Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
