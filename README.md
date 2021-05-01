@@ -15,18 +15,18 @@
 
 ---
 
-### Hard Skills
+#### Hard Skills
 
-#### Ferramentas de Automação
+##### Ferramentas de Automação
 
-Trabalho atualmente com **Cypress** mas tenho também conhecimento em **Selenium** e **Capybara**.
+Cypress, Selenium e Capybara.
 
-#### Linguagens
+##### Linguagens
 JavaScript, Ruby e Gherkin.
 
 Sou entusiasta em desenvolvimento mobile e no tempo livre estudo Swift e Java.
 
-#### CI/CD
+##### CI/CD
 Azure DevOps, Github Actions e noções em Jenkins.
 
 
