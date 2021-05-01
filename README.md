@@ -25,11 +25,11 @@
 
 ##### Linguagens
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-595D60?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Ruby](https://img.shields.io/badge/-Ruby-595D60?style=flat-square&logo=Ruby&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Ruby](https://img.shields.io/badge/-Ruby-CC0000?style=flat-square&logo=Ruby&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Gherkin](https://img.shields.io/badge/-Gherkin-595D60?style=flat-square&logo=Gherkin&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Swift](https://img.shields.io/badge/-Swift-595D60?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Java](https://img.shields.io/badge/-Java-595D60?style=flat-square&logo=Java&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 
 
 ##### CI/CD
