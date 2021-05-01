@@ -26,30 +26,13 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-595D60?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Ruby](https://img.shields.io/badge/-Ruby-595D60?style=flat-square&logo=Ruby&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Gherkin](https://img.shields.io/badge/-Gherkin-595D60?style=flat-square&logo=Gherkin&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Swift](https://img.shields.io/badge/-Swift-595D60?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Java](https://img.shields.io/badge/-Java-595D60?style=flat-square&logo=Java&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 
 #### CI/CD
 [![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-595D60?style=flat-square&logo=AzureDevOps&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Github Actions](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Gitub&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Github Actions](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Capybara](https://img.shields.io/badge/-Capybara-595D60?style=flat-square&logo=Capybara&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-
-
-
-rabalho atualmente com Cypress utilizando JavaScript para automação de testes.
-
-
-
-Meu conhecimento em CI/CD se concentra atualmente em **Azure DevOps**, **Github Actions** e noções de **Jenkins**.
-
-Linguagens: 
-**JavaScript**, **Ruby** e **Gherkin**.
- 
-Sou entusiasta em desenvolvimento mobile e no tempo livre estudo **Swift** e **Java**
-
-Tenho também conhecimento em **Capybara** e **Selenium** com automação em Ruby.
-
-
-
-
 
 
 
