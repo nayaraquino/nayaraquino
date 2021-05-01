@@ -29,7 +29,7 @@
 [![Postgre SQL](https://img.shields.io/badge/-PostgreSQL-595D60?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Git](https://img.shields.io/badge/-Git-595D60?style=flat-square&logo=git&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![GitLab](https://img.shields.io/badge/-GitLab-595D60?style=flat-square&logo=GitLab&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Cucumber](https://img.shields.io/badge/-Cucumber-595D60?style=flat-square&logo=Cucumber&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+
 
 <!--
 [![Nayara Github Status](https://github-readme-stats.vercel.app/api?username=nayaraquino&theme=blue-green)](https://github.com/nayaraquino/github-readme-stats)
