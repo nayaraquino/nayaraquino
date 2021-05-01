@@ -9,22 +9,22 @@
 ---
 ### Sobre mim
 
-:mortar_board: | Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
+:mortar_board:. Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
 
-:woman_technologist: | Atualmente trabalhando na [Stant](https://github.com/stantmob)
+:woman_technologist:. Atualmente trabalhando na [Stant](https://github.com/stantmob)
 
 ---
 ### Linguagens e Tecnologias
 
-:computer: | JavaScript, Ruby, Swift e Gherkin
+:computer:. JavaScript, Ruby, Swift e Gherkin
 
-:repeat: | Azure DevOps, Github Actions e Jenkins
+:repeat:. Azure DevOps, Github Actions e Jenkins
 
-:mechanical_arm: | Cypress, Selenium e Capybara
+:mechanical_arm:. Cypress, Selenium e Capybara
 
-:page_facing_up: | Insomnia e Postman
+:page_facing_up:. Insomnia e Postman
 
-:file_folder: | TestLink, X-Ray e JIRA
+:file_folder:. TestLink, X-Ray e JIRA
 
 ---
 ### Outras Tecnologias e Ferramentas
