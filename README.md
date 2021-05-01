@@ -15,24 +15,24 @@
 
 ---
 
-### Languages and Tools
+### Hard Skills
 
 #### Ferramentas de Automação
-[![Cypress](https://img.shields.io/badge/-Cypress-595D60?style=flat-square&logo=Cypress&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Selenium](https://img.shields.io/badge/-Selenium-595D60?style=flat-square&logo=Selenium&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Capybara](https://img.shields.io/badge/-Capybara-595D60?style=flat-square&logo=Capybara&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+
+Trabalho atualmente com Cypress mas tenho também conhecimento em Selenium e Capybara.
 
 #### Linguagens
-[![JavaScript](https://img.shields.io/badge/-JavaScript-595D60?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Ruby](https://img.shields.io/badge/-Ruby-595D60?style=flat-square&logo=Ruby&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Gherkin](https://img.shields.io/badge/-Gherkin-595D60?style=flat-square&logo=Gherkin&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Swift](https://img.shields.io/badge/-Swift-595D60?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Java](https://img.shields.io/badge/-Java-595D60?style=flat-square&logo=Java&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+- JavaScript
+- Ruby
+- Gherkin
+
+Sou entusiasta em desenvolvimento mobile e no tempo livre estudo Swift e Java.
 
 #### CI/CD
-[![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-595D60?style=flat-square&logo=AzureDevOps&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Github Actions](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-595D60?style=flat-square&logo=Jenkins&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+- Azure DevOps
+- Github Actions
+
+Noções em Jenkins.
 
 
 
