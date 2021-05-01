@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-595D60?style=flat-square&logo=Medium&logoColor=white&link=https://nayaraquino.medium.com/)](https://nayaraquino.medium.com/)
 
 ---
-#### About me
+### About me
 
 :mortar_board:  Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
 
@@ -15,15 +15,15 @@
 
 ---
 
-#### Hard Skills
+### Hard Skills
 
-##### Ferramentas de Automação
+#### Ferramentas de Automação
 [![Cypress](https://img.shields.io/badge/-Cypress-595D60?style=flat-square&logo=Cypress&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Selenium](https://img.shields.io/badge/-Selenium-595D60?style=flat-square&logo=Selenium&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Capybara](https://img.shields.io/badge/-Capybara-595D60?style=flat-square&logo=Capybara&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 
 
-##### Linguagens
+#### Linguagens
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-595D60?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Ruby](https://img.shields.io/badge/-Ruby-595D60?style=flat-square&logo=Ruby&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
@@ -32,14 +32,14 @@
 [![Java](https://img.shields.io/badge/-Java-595D60?style=flat-square&logo=Java&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 
 
-##### CI/CD
+#### CI/CD
 
 [![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-595D60?style=flat-square&logo=AzureDevOps&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Github Actions](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-595D60?style=flat-square&logo=Jenkins&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 
 
-##### Teste de API
+#### Teste de API
 
 [![Insomnia](https://img.shields.io/badge/-Insomnia-595D60?style=flat-square&logo=Insomnia&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Postman](https://img.shields.io/badge/-Postman-595D60?style=flat-square&logo=Postman&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
