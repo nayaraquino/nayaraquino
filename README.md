@@ -32,7 +32,7 @@
 #### CI/CD
 [![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-595D60?style=flat-square&logo=AzureDevOps&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Github Actions](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Capybara](https://img.shields.io/badge/-Capybara-595D60?style=flat-square&logo=Capybara&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Jenkins](https://img.shields.io/badge/-Jenkins-595D60?style=flat-square&logo=Jenkins&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 
 
 
