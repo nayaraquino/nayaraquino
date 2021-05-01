@@ -9,42 +9,26 @@
 ---
 ### About me
 
-:mortar_board:  Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
+:mortar_board: ┇ Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
 
-:woman_technologist:  Atualmente trabalhando na [Stant](https://github.com/stantmob)
+:woman_technologist: ┇ Atualmente trabalhando na [Stant](https://github.com/stantmob)
 
 ---
 
-### Hard Skills
+:computer: ┇ JavaScript, Ruby, Swift e Gherkin.
+
+:repeat: ┇ Azure DevOps, Github Actions e Jenkins.
+
+:mechanical_arm: ┇Cypress, Selenium e Capybara
+
+:page_facing_up: ┇ Insomnia e Postman
 
 
-#### Linguagens
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-595D60?style=flat-square&logo=JavaScript&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Ruby](https://img.shields.io/badge/-Ruby-595D60?style=flat-square&logo=Ruby&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Gherkin](https://img.shields.io/badge/-Gherkin-595D60?style=flat-square&logo=Gherkin&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Swift](https://img.shields.io/badge/-Swift-595D60?style=flat-square&logo=Swift&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Java](https://img.shields.io/badge/-Java-595D60?style=flat-square&logo=Java&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-
-
-#### CI/CD
-
-[![Azure DevOps](https://img.shields.io/badge/-AzureDevOps-595D60?style=flat-square&logo=AzureDevOps&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Github Actions](https://img.shields.io/badge/-Github-595D60?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Jenkins](https://img.shields.io/badge/-Jenkins-595D60?style=flat-square&logo=Jenkins&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-
-
-#### Ferramentas de Automação
-
-[![Cypress](https://img.shields.io/badge/-Cypress-595D60?style=flat-square&logo=Cypress&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Selenium](https://img.shields.io/badge/-Selenium-595D60?style=flat-square&logo=Selenium&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Capybara](https://img.shields.io/badge/-Capybara-595D60?style=flat-square&logo=Capybara&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-
-#### Teste de API
-
-[![Insomnia](https://img.shields.io/badge/-Insomnia-595D60?style=flat-square&logo=Insomnia&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Postman](https://img.shields.io/badge/-Postman-595D60?style=flat-square&logo=Postman&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-
+#### Outras Tecnologias e Ferramentas
+[![Postgre SQL](https://img.shields.io/badge/-PostgreSQL-595D60?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Git](https://img.shields.io/badge/-Git-595D60?style=flat-square&logo=git&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![GitLab](https://img.shields.io/badge/-GitLab-595D60?style=flat-square&logo=GitLab&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Cucumber](https://img.shields.io/badge/-Cucumber-595D60?style=flat-square&logo=Cucumber&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 
 <!--
 [![Nayara Github Status](https://github-readme-stats.vercel.app/api?username=nayaraquino&theme=blue-green)](https://github.com/nayaraquino/github-readme-stats)
