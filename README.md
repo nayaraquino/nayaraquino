@@ -19,7 +19,7 @@
 
 #### Ferramentas de Automação
 
-Trabalho atualmente com Cypress mas tenho também conhecimento em Selenium e Capybara.
+Trabalho atualmente com **Cypress** mas tenho também conhecimento em **Selenium** e **Capybara**.
 
 #### Linguagens
 - JavaScript
