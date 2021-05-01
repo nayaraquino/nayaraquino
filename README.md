@@ -18,9 +18,9 @@
 #### Hard Skills
 
 ##### Ferramentas de Automação
-[![Cypress](https://img.shields.io/badge/-Cypress-595D60?style=flat-square&logo=Cypress&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Selenium](https://img.shields.io/badge/-Selenium-595D60?style=flat-square&logo=Selenium&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
-[![Capybara](https://img.shields.io/badge/-Capybara-595D60?style=flat-square&logo=Capybara&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
+[![Capybara](https://img.shields.io/badge/-Capybara-F58025?style=flat-square&logo=Capybara&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 
 
 ##### Linguagens
