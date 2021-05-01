@@ -22,17 +22,12 @@
 Trabalho atualmente com **Cypress** mas tenho também conhecimento em **Selenium** e **Capybara**.
 
 #### Linguagens
-- JavaScript
-- Ruby
-- Gherkin
+JavaScript, Ruby e Gherkin.
 
 Sou entusiasta em desenvolvimento mobile e no tempo livre estudo Swift e Java.
 
 #### CI/CD
-- Azure DevOps
-- Github Actions
-
-Noções em Jenkins.
+Azure DevOps, Github Actions e noções em Jenkins.
 
 
 
