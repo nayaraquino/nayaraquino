@@ -16,16 +16,16 @@
 ---
 ### Linguagens e Tecnologias
 
-:computer: | JavaScript, Ruby, Swift e Gherkin.
+:computer: | JavaScript, Ruby, Swift e Gherkin
 
-:repeat: | Azure DevOps, Github Actions e Jenkins.
+:repeat: | Azure DevOps, Github Actions e Jenkins
 
 :mechanical_arm: | Cypress, Selenium e Capybara
 
 :page_facing_up: | Insomnia e Postman
 
-
-#### Outras Tecnologias e Ferramentas
+---
+### Outras Tecnologias e Ferramentas
 [![Postgre SQL](https://img.shields.io/badge/-PostgreSQL-595D60?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![Git](https://img.shields.io/badge/-Git-595D60?style=flat-square&logo=git&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
 [![GitLab](https://img.shields.io/badge/-GitLab-595D60?style=flat-square&logo=GitLab&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
