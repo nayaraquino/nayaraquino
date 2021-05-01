@@ -24,6 +24,8 @@
 
 :page_facing_up: | Insomnia e Postman
 
+:file_folder: | TestLink, X-Ray e JIRA
+
 ---
 ### Outras Tecnologias e Ferramentas
 [![Postgre SQL](https://img.shields.io/badge/-PostgreSQL-595D60?style=flat-square&logo=PostgreSQL&logoColor=white&link=https://github.com/nayaraquino/)](https://github.com/nayaraquino/)
