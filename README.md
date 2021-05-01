@@ -7,7 +7,7 @@
 [![Medium](https://img.shields.io/badge/Medium-595D60?style=flat-square&logo=Medium&logoColor=white&link=https://nayaraquino.medium.com/)](https://nayaraquino.medium.com/)
 
 ---
-### About me
+### Sobre mim
 
 :mortar_board: | Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
 
