@@ -18,7 +18,7 @@
 
 :computer:. JavaScript, Ruby, Swift e Gherkin
 
-:repeat:. Azure DevOps, Github Actions e Jenkins
+:repeat:. Azure DevOps e Github Actions
 
 :mechanical_arm:. Cypress, Selenium e Capybara
 
