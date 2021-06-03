@@ -11,7 +11,7 @@
 
 :mortar_board:. Granduanda em Sistemas de Infomação pela [Estácio de Sá](https://estacio.br)
 
-:woman_technologist:. Atualmente trabalhando na [Stant](https://github.com/stantmob)
+:woman_technologist:. Atualmente trabalhando na [GFT Group](https://www.gft.com/br/pt/index/)
 
 ---
 ### Linguagens e Tecnologias
