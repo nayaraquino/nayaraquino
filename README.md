@@ -5,8 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-595D60?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nayaraquino)](https://t.me/nayaraquino)
 [![Medium](https://img.shields.io/badge/Medium-595D60?style=flat-square&logo=Medium&logoColor=white&link=https://nayaraquino.medium.com/)](https://nayaraquino.medium.com/)
 
-### Sobre mim
-
 :mortar_board: Granduanda em Análise e Desenvolvimento de Sistemas pela [Estácio de Sá](https://estacio.br)
 
 :woman_technologist: Quality Assurance Test Engineer na [GFT Group](https://www.gft.com/br/pt/index/)
