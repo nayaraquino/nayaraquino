@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-595D60?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayaraquino7@gmail.com/)](mailto:nayaraquino7@gmail.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-595D60?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nayaraquino)](https://t.me/nayaraquino)
 
-:mortar_board: Pós-granduanda em MBA em Qualidade de Software pela [Pontifícia Universidade Católica de Minas Gerais]([https://estacio.br](https://www.pucminas.br/))
+:mortar_board: Pós-granduanda em MBA em Qualidade de Software pela [Pontifícia Universidade Católica de Minas Gerais](https://www.pucminas.br/)
 
 :mortar_board: Granduada em Análise e Desenvolvimento de Sistemas pela [Estácio de Sá](https://estacio.br)
 
