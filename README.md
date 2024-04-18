@@ -4,6 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-595D60?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/nayaraquino)](https://t.me/nayaraquino)
 
 :mortar_board: Pós-granduanda em MBA em Qualidade de Software pela [Pontifícia Universidade Católica de Minas Gerais]([https://estacio.br](https://www.pucminas.br/))
+
 :mortar_board: Granduada em Análise e Desenvolvimento de Sistemas pela [Estácio de Sá](https://estacio.br)
 
 :woman_technologist: Quality Assurance Test Engineer na [GFT Group](https://www.gft.com/br/pt/index/)
